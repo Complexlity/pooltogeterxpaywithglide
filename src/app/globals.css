@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    font-feature-settings: 'calt' off;
+  }
+}
+
+.ctn-btn {
+  background-color: #8050E3 !important;
+  color: #F5F0FF !important
+}
+.connect-button {
+  background-color: #8050E3 !important;
+  color: #F5F0FF !important;
+}
+
+
