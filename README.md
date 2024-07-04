@@ -15,7 +15,6 @@ git clone https://github.com/Complexlity/pooltogetherxglide.git
 
 ```
 pnpm install
-
 ```
 
 - Update environmental Varliables
@@ -27,3 +26,11 @@ https://paywithglide.xyz/
 NEXT_PUBLIC_DYNAMIC_ENVIRONMENT_ID=
 
 https://app.dynamic.xyz/dashboard/developer/api
+
+
+- Run Development Server
+```
+pnpm run dev
+```
+
+Go to [http://localhost:3000](http://localhost:3000)
